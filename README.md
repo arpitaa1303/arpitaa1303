@@ -1,7 +1,7 @@
 ## Hi I'm Arpita👋
 I am a B.Tech Computer Science student dedicated to building seamless web experiences.
 
-With experience in web development,I focus on creating responsive and user centric-applications.My work involves bridging gap between aesthetic frontend design and robust analytical backend logic to build production-ready web applications.
+With experience in web development,I focus on creating responsive,user centric-applications that integrate functional logic with AI-driven features.My work involves bridging gap between aesthetic frontend design and robust analytical backend logic to build production-ready web applications.
 
 I'm always open to collaborating on impactful web projects or open-source initiatives-feel free to reach out!
 
